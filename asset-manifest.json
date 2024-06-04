@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/responsive-beverage-app/static/css/main.ffa0439a.css",
-    "main.js": "/responsive-beverage-app/static/js/main.086478e7.js",
+    "main.js": "/responsive-beverage-app/static/js/main.5ac42e99.js",
     "static/media/applejuice.jpg": "/responsive-beverage-app/static/media/applejuice.3a9b1151b6aa5a0fe6d2.jpg",
     "static/media/lemonjuice.jpg": "/responsive-beverage-app/static/media/lemonjuice.edde4e12b62ecb21bbe1.jpg",
     "static/media/badammilk.jpg": "/responsive-beverage-app/static/media/badammilk.f6275f9ff2e294cc5bf0.jpg",
@@ -20,10 +20,10 @@
     "static/media/fallooda.jpg": "/responsive-beverage-app/static/media/fallooda.8a5cb759a66bcc64a67d.jpg",
     "index.html": "/responsive-beverage-app/index.html",
     "main.ffa0439a.css.map": "/responsive-beverage-app/static/css/main.ffa0439a.css.map",
-    "main.086478e7.js.map": "/responsive-beverage-app/static/js/main.086478e7.js.map"
+    "main.5ac42e99.js.map": "/responsive-beverage-app/static/js/main.5ac42e99.js.map"
   },
   "entrypoints": [
     "static/css/main.ffa0439a.css",
-    "static/js/main.086478e7.js"
+    "static/js/main.5ac42e99.js"
   ]
 }
