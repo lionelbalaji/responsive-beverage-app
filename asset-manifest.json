@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/responsive-beverage-app/static/css/main.ffa0439a.css",
+    "main.js": "/responsive-beverage-app/static/js/main.086478e7.js",
+    "static/media/applejuice.jpg": "/responsive-beverage-app/static/media/applejuice.3a9b1151b6aa5a0fe6d2.jpg",
+    "static/media/lemonjuice.jpg": "/responsive-beverage-app/static/media/lemonjuice.edde4e12b62ecb21bbe1.jpg",
+    "static/media/badammilk.jpg": "/responsive-beverage-app/static/media/badammilk.f6275f9ff2e294cc5bf0.jpg",
+    "static/media/sugarcanejuice.jpg": "/responsive-beverage-app/static/media/sugarcanejuice.63a1aeeeabf6b4f6873d.jpg",
+    "static/media/coldcoffee.jpg": "/responsive-beverage-app/static/media/coldcoffee.0fc5ab57e332e1ecfbf5.jpg",
+    "static/media/icetea.jpg": "/responsive-beverage-app/static/media/icetea.2dd6e6c4754e35a06404.jpg",
+    "static/media/orangejuice.jpg": "/responsive-beverage-app/static/media/orangejuice.cf9508b8025d35f968c5.jpg",
+    "static/media/sarbath.jpg": "/responsive-beverage-app/static/media/sarbath.ac45341876d08722bad8.jpg",
+    "static/media/watermelonjuice.jpg": "/responsive-beverage-app/static/media/watermelonjuice.a28920cbe93766927d19.jpg",
+    "static/media/vanillamilkshake.jpg": "/responsive-beverage-app/static/media/vanillamilkshake.6f852d19289d6e6472de.jpg",
+    "static/media/rosemilk.jpg": "/responsive-beverage-app/static/media/rosemilk.ae58b2635fff198cdef7.jpg",
+    "static/media/oreomilkshake.jpg": "/responsive-beverage-app/static/media/oreomilkshake.659b868a541eecadd6b0.jpg",
+    "static/media/beverage-back.jpg": "/responsive-beverage-app/static/media/beverage-back.be3f74836d3d18ce27a5.jpg",
+    "static/media/buttermilk.jpg": "/responsive-beverage-app/static/media/buttermilk.6ee87dedc304aa810754.jpg",
+    "static/media/chocolatemilkshake.jpg": "/responsive-beverage-app/static/media/chocolatemilkshake.94bd0c58008bb04bc0f5.jpg",
+    "static/media/fallooda.jpg": "/responsive-beverage-app/static/media/fallooda.8a5cb759a66bcc64a67d.jpg",
+    "index.html": "/responsive-beverage-app/index.html",
+    "main.ffa0439a.css.map": "/responsive-beverage-app/static/css/main.ffa0439a.css.map",
+    "main.086478e7.js.map": "/responsive-beverage-app/static/js/main.086478e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffa0439a.css",
+    "static/js/main.086478e7.js"
+  ]
+}
