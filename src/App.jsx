@@ -1,12 +1,12 @@
 import React from 'react'
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { BrowserRouter, HashRouter, Route, Routes } from 'react-router-dom'
 import Home from '../src/pages/Home'
 import About from '../src/pages/About'
 import Beveragedetails from '../src/pages/Beveragedetails'
 import './css files/App.css'
 const App = () => {
   return (
-   <BrowserRouter>
+   <HashRouter>
    <Routes>
    <>
        <Route path='/' element={<Home/>}/>
@@ -14,7 +14,8 @@ const App = () => {
        <Route path='/beveragedetails/:id' element={<Beveragedetails/>}/>
     </>
    </Routes>
-   </BrowserRouter>
+   </HashRouter>
+   
   )
 }
 
